@@ -21,3 +21,4 @@ logWhisper("Hello")
 function sayHiToGrandma(string)(){
   return string("I can\'t hear you!")
 }
+sayHiToGrandma("hello")
